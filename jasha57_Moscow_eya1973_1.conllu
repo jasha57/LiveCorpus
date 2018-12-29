@@ -1,0 +1,330 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = # time_begin = 0:19
+1	#	#	PUNCT	_	_	2	punct	_	SpacesBefore=\n
+2	time_begin	time_begiн-лат	NOUN	_	_	0	root	_	_
+3	=	=	SYM	_	_	2	nmod	_	_
+4	0	0	NUM	_	_	3	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	19	19	NUM	_	_	4	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 48
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = ааа школа была замечательная / как сейчас называется в
+1	ааа	ааa	INTJ	_	_	8	nsubj	_	_
+2	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+4	замечательная	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nsubj	_	_
+5	/	/	PUNCT	_	_	8	punct	_	_
+6	как	как	SCONJ	_	_	8	mark	_	_
+7	сейчас	сейчас	ADV	_	Degree=Pos	8	advmod	_	_
+8	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	в	в	ADP	_	_	8	case	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 51
+# text = территориальной доступности находилась
+1	территориальной	территориальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	доступности	доступность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	_
+3	находилась	находиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 52
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 53
+# text = то есть во прям во дворе / э была замечательная дыра в заборе через которую я и бегала так как выходила ровно там за две минуты до последнего звонка
+1	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	mark	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	_
+3	во	в	ADP	_	_	4	case	_	_
+4	прям	пре	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	0	root	_	_
+5	во	во	ADP	_	_	6	case	_	_
+6	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+7	/	/	PUNCT	_	_	11	punct	_	_
+8	э	э	INTJ	_	_	11	nsubj	_	_
+9	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+10	замечательная	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	дыра	дыра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	заборе	забор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+14	через	через	ADP	_	_	15	case	_	_
+15	которую	который	PRON	_	Case=Acc	13	nmod	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	18	nsubj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	бегала	бегать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+19	так	так	SCONJ	_	_	21	mark	_	_
+20	как	как	SCONJ	_	_	19	fixed	_	_
+21	выходила	выходить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	_
+22	ровно	ровно	ADV	_	Degree=Pos	23	advmod	_	_
+23	там	там	ADV	_	_	21	advmod	_	_
+24	за	за	ADP	_	_	26	case	_	_
+25	две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	26	nummod:gov	_	_
+26	минуты	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	_
+27	до	до	ADP	_	_	29	case	_	_
+28	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	звонка	звонок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 54
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 55
+# text = эмм / это было достаточно / э сложно / э по...
+1	эмм	эмм	INTJ	_	_	5	nsubj	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	достаточно	достаточно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+6	/	/	PUNCT	_	_	8	punct	_	_
+7	э	э	INTJ	_	_	8	obl	_	_
+8	сложно	сложный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	obl	_	_
+9	/	/	PUNCT	_	_	10	punct	_	_
+10	э	э	INTJ	_	_	8	parataxis	_	_
+11	по	по	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 56
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 57
+# text = пропустить школу / я чувствовала ответственность / хотя иногда очень хотелось так как ээ в школе кроме меня / э
+1	пропустить	пропустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+2	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+3	/	/	PUNCT	_	_	5	punct	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	чувствовала	чувствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+6	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	/	/	PUNCT	_	_	11	punct	_	_
+8	хотя	хотя	SCONJ	_	_	11	mark	_	_
+9	иногда	иногда	ADV	_	Degree=Pos	11	advmod	_	_
+10	очень	очень	ADV	_	Degree=Pos	11	advmod	_	_
+11	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	advcl	_	_
+12	так	так	SCONJ	_	_	11	advmod	_	_
+13	как	как	SCONJ	_	_	12	fixed	_	_
+14	ээ	ээ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	_
+17	кроме	кроме	ADP	_	_	18	case	_	_
+18	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	11	obl	_	_
+19	/	/	PUNCT	_	_	20	punct	_	_
+20	э	э	INTJ	_	_	11	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 58
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 59
+# text = в классе вернее моём кроме меня был только ещё один человек который хотел и / мог учиться / и если вдруг ни меня ни мале...
+1	в	в	ADP	_	_	2	case	_	_
+2	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+3	вернее	верный	ADV	_	Degree=Cmp	4	obl	_	_
+4	моём	моь	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	_
+5	кроме	кроме	ADP	_	_	6	case	_	_
+6	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	4	obl	_	_
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+8	только	только	PART	_	_	13	advmod	_	_
+9	ещё	еще	ADV	_	Degree=Pos	10	advmod	_	_
+10	один	один	NUM	_	Case=Nom|Gender=Masc	11	nummod:gov	_	_
+11	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	который	который	PRON	_	Case=Acc	13	obj	_	_
+13	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+17	учиться	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	16	xcomp	_	_
+18	/	/	PUNCT	_	_	25	punct	_	_
+19	и	и	CCONJ	_	_	25	cc	_	_
+20	если	если	SCONJ	_	_	25	mark	_	_
+21	вдруг	вдруг	ADV	_	Degree=Pos	25	advmod	_	_
+22	ни	ни	PART	_	_	23	advmod	_	_
+23	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	25	obj	_	_
+24	ни	ни	PART	_	_	25	advmod	_	_
+25	мале	мале	X	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	25	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 60
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 61
+# text = ни валеры не было в классе / то весь класс был без / домашнего задания
+1	ни	ни	CCONJ	_	_	2	cc	_	_
+2	валеры	валер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+3	не	не	PART	_	_	6	advmod	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+7	/	/	PUNCT	_	_	15	punct	_	_
+8	то	то	SCONJ	_	_	15	mark	_	_
+9	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
+10	класс	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	_
+12	без	без	ADP	_	_	15	case	_	_
+13	/	/	PUNCT	_	_	14	punct	_	_
+14	домашнего	домашний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	задания	задание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 62
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 63
+# text = я чувствовала груз ответственности поэтому старалась ходить / несмотря там на болезни и так далее / ну в общем я признательна этой школе / так как нас там плохо учили
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	чувствовала	чувствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	груз	груз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	поэтому	поэтому	ADV	_	Degree=Pos	6	advmod	_	_
+6	старалась	стараться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	_
+7	ходить	ходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	obl	_	_
+8	/	/	PUNCT	_	_	7	punct	_	_
+9	несмотря	несмотря	ADV	_	Polarity=Neg	7	advmod	_	_
+10	там	там	ADV	_	_	9	fixed	_	_
+11	на	на	ADP	_	_	9	fixed	_	_
+12	болезни	болезнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	obl	_	_
+13	и	и	CCONJ	_	_	21	cc	_	_
+14	так	так	ADV	_	Degree=Pos	13	fixed	_	_
+15	далее	далее	ADV	_	Degree=Pos	13	fixed	_	_
+16	/	/	PUNCT	_	_	21	punct	_	_
+17	ну	ну	INTJ	_	_	21	parataxis	_	_
+18	в	в	INTJ	_	_	19	case	_	_
+19	общем	общем	INTJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	21	obl	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	21	nsubj	_	_
+21	признательна	признательный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	7	conj	_	_
+22	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing	23	det	_	_
+23	школе	школа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	iobj	_	_
+24	/	/	PUNCT	_	_	21	punct	_	_
+25	так	так	ADV	_	Degree=Pos	30	mark	_	_
+26	как	как	SCONJ	_	_	25	fixed	_	_
+27	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	30	obj	_	_
+28	там	там	ADV	_	Degree=Pos	30	advmod	_	_
+29	плохо	плохо	ADV	_	Degree=Pos	30	advmod	_	_
+30	учили	учить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 64
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 65
+# text = ээ я постигла / самообучение / и непрерывное обучение новые технологии сегодняшние прямо с самого начала
+1	ээ	ээ	INTJ	_	_	3	advmod	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+3	постигла	постичь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	/	/	PUNCT	_	_	3	punct	_	_
+5	самообучение	самообучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	obj	_	_
+6	/	/	PUNCT	_	_	9	punct	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	непрерывное	непрерывный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	обучение	обучение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	conj	_	_
+10	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+12	сегодняшние	сегодняшний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	nsubj	_	_
+13	прямо	прямо	ADV	_	Degree=Pos	16	obl	_	_
+14	с	с	ADP	_	_	16	case	_	_
+15	самого	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 66
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 67
+# text = своей ш...
+1	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	0	det	_	_
+2	ш.	школьной	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 68
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 69
+# text = деятельности в школе
+1	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 70
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = а перешла / а в другую школу и очень этим была / довольна по совершенно прозаической причине
+1	а	а	CCONJ	_	_	2	cc	_	_
+2	перешла	перейти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	/	/	PUNCT	_	_	13	punct	_	_
+4	а	а	INTJ	_	_	13	cc	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	другую	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	очень	очень	ADV	_	Degree=Pos	10	obl	_	_
+10	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	conj	_	_
+11	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+12	/	/	PUNCT	_	_	11	punct	_	_
+13	довольна	довольный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	conj	_	_
+14	по	по	ADP	_	_	17	case	_	_
+15	совершенно	совершенно	ADV	_	Degree=Pos	16	obl	_	_
+16	прозаической	прозаический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	причине	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 72
+# text = @eya@
+1	@eya@	@eya@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 73
+# text = так как ааа / тогда только вводили пятидневку и в этой школе была уже пятидневка
+1	так	так	SCONJ	_	_	7	mark	_	_
+2	как	как	SCONJ	_	_	1	fixed	_	_
+3	ааа	ааa	INTJ	_	_	7	nsubj	_	_
+4	/	/	PUNCT	_	_	3	punct	_	_
+5	тогда	тогда	ADV	_	Degree=Pos	7	advmod	_	_
+6	только	только	PART	_	_	7	advmod	_	_
+7	вводили	вводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	пятидневку	пятидневка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	и	и	CCONJ	_	_	13	cc	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	12	det	_	_
+12	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+13	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+14	уже	уже	ADV	_	Degree=Pos	15	obl	_	_
+15	пятидневка	пятидневка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	SpacesAfter=\n\n
